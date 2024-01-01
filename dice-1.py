@@ -1,4 +1,4 @@
-#Calculating the probability
+#Calculating the total combinations
 die_no_a = [1,2,3,4,5,6]
 die_no_b = [1,2,3,4,5,6]
 
