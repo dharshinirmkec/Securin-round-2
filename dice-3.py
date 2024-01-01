@@ -10,10 +10,9 @@ for i in die_no_a:
         else:
             sum_combinations[i+j] = 1
 
-print(sorted(sum_combinations))
+#print(sorted(sum_combinations))
 
-"""
+
 print("Enter the sum of values of two dices: ", end="")
 sum = int(input())
-print("Number of combinations to get the sum", sum, "is", combinations_sum[sum], "/36")    
-"""
+print("Number of combinations to get the sum", sum, "is", sum_combinations[sum], "/36")    
